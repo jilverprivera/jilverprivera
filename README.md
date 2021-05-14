@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**jilverprivera/jilverprivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  Hi, I'm Jilver, welcome to my github profile 🖐
+</h1>
 
-Here are some ideas to get you started:
+I&apos;m <b>[Jilver Pacheco Rivera](https://jilverpacheco.netlify.app/)</b>. I am a Front-end Developer Located in Colombia, I am currently final year electronic engineering degree at <b>[Univesidad de Investigación y Desarrollo - UDI](https://web.udi.edu.co/)</b> in Bucaramanga, Santander.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="center">
+  &#x1f4c8; My Github stats 
+</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jilverprivera&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</p>
