@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hey! 👋, I'm Jilver, welcome to my github profile </h1>
+<h1 align="center"> Hey! 👋, I'm Jilver, welcome to my GitHub profile </h1>
 I am a self-taught web developer and a final year student of electronic engineering based in Colombia.
 
 You can see more information about me in: <b>[jilverpacheco.netlify.app](https://jilverpacheco.netlify.app/)</b>. 
