@@ -2,7 +2,7 @@
 ### Hey there, Jilver Pacheco here 👋
 You can see more information about me in: <b>[jilverpacheco.vercel.app](https://jilverpacheco.vercel.app/)</b>. 
 
-#### I'm a Electronic Engineer Student 🦾
+#### I'm a Electronic Engineer Student 📚
 ***
 - 🦾 I currently work for a company that teaches the importance of robotics to children and trains teachers.
 - 💻 I'm currently working on Web | Mobile projects with React Native, Next.JS in my free times.
