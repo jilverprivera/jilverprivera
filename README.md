@@ -1,6 +1,6 @@
 ### Hey there👋
 
-Electronic Engineer Student at final year and web / mobile developer specialized in React.JS 📚.
+Electronics Engineering Student at final year and web / mobile developer specialized in React.JS 📚.
 
 You can see more information about me in: <b>[jilverpacheco.com](https://jilverpacheco.vercel.app/)</b>. 
 
