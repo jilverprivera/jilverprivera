@@ -6,8 +6,7 @@ You can see more information about me in: <b>[jilverpacheco.com](https://jilverp
 
 ***
 #### Some things about me...
-- 🦾 I currently work for a company that teaches the importance of programming and robotics to children.
-- 💻 I'm currently working on Web | Mobile projects with React Native, Next.JS in my free times.
+- 💻 I'm currently working on Web | Mobile projects with React Native, Next.JS and TypeScript in my free times.
 - 🥬 I'm currently working on my project degree based on a greenhouse connected to a real-time DB and virtual systems for tank filling.
 - 💬 You can ask me about things related to the web, robotics, automation and control systems.
 
