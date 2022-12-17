@@ -23,4 +23,4 @@ You can see more information about me in: <b>[jilverpacheco.com](https://jilverp
 - Instagram: [@Jilverprivera](https://www.instagram.com/jilverprivera/)
 
 #### Stats.
-![jilverprivera's github stats](https://github-readme-stats.vercel.app/api?username=jilverprivera&show_icons=true&hide_border=true)
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jilverprivera&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
