@@ -1,13 +1,13 @@
 ### Hey there👋
 
-Electronics engineer and Full-stack software developer 📚.
+Electronic Engineer + Backend Developer 📚.
 
 You can see more information about me in: <b>[jilverpacheco.com](https://jilverpacheco.vercel.app/)</b>. 
 
 ***
 #### Some things about me...
-- 💻 I'm currently working on Web | Mobile projects with React Native, Next.JS and TypeScript in my free times.
-- 💬 You can ask me about things related to the web, robotics, automation and control systems.
+- 💻 Currently working on Python | Django and React/React Native with TypeScript in my free times.
+- 💬 You can ask me about things related to the Backend, Robotics, Automation and Control Systems.
 
 #### Languages and tools.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
