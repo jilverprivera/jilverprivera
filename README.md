@@ -1,6 +1,6 @@
 ### Hey there👋
 
-Electronic Engineer + Backend Developer 📚.
+Electronic Engineer + Software Developer 📚.
 
 You can see more information about me in: <b>[jilverpacheco.com](https://jilverpacheco.vercel.app/)</b>. 
 
