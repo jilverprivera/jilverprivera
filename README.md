@@ -6,7 +6,7 @@ You can see more information about me in: <b>[jilverpacheco.com](https://jilverp
 
 ***
 #### Some things about me...
-- 💻 Currently working on Python | Django and React/React Native with TypeScript in my free times.
+- 💻 Currently working on React/React Native with TypeScript in my free times.
 - 💬 You can ask me about things related to the Backend, Robotics, Automation and Control Systems.
 
 #### Languages and tools.
